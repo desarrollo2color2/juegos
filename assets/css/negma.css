@@ -1,0 +1,784 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 44, ../scss/negma.scss */
+body.login_form .maincontent {
+  background: #A39970;
+  padding: 30px 0;
+  margin-top: 30px;
+  display: none;
+}
+/* line 51, ../scss/negma.scss */
+body.login_form div {
+  position: relative;
+}
+/* line 55, ../scss/negma.scss */
+body.login_form div i {
+  position: absolute;
+  left: 11%;
+  display: block;
+  padding: 11px 12px;
+  color: #fff;
+}
+/* line 68, ../scss/negma.scss */
+body.login_form form {
+  margin: 0 34%;
+}
+/* line 74, ../scss/negma.scss */
+body.login_form h3 {
+  padding: 20px 15px;
+  text-align: center;
+  -moz-border-radius: 10px 10px 0 0;
+  -webkit-border-radius: 10px;
+  border-radius: 10px 10px 0 0;
+  font-weight: normal;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: 'Open Sans Condensed', sans-serif;
+  background: #7D8D37;
+  -moz-box-shadow: 0 4px #A8BF80;
+  -webkit-box-shadow: 0 4px #A8BF80;
+  box-shadow: 0 4px #A8BF80;
+}
+/* line 89, ../scss/negma.scss */
+body.login_form input[type="email"], body.login_form input[type="password"] {
+  display: block;
+  padding: 8px 12px 8px 42px;
+  width: 80%;
+  margin: 0 auto 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  border: 1px solid #eaeaea;
+  color: #666;
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: #9D946F;
+  color: #fff;
+}
+/* line 104, ../scss/negma.scss */
+body.login_form input[type="submit"] {
+  display: block;
+  padding: 10px 12px;
+  background: #758756;
+  color: #fff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  border: none;
+  margin: 10px auto 20px;
+  font-size: 12px;
+  text-transform: uppercase;
+  min-width: 210px;
+}
+/* line 123, ../scss/negma.scss */
+body.login_form a {
+  text-decoration: none;
+  cursor: pointer;
+  color: #41cac0;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  display: block;
+  font-size: 14px;
+}
+
+/* line 138, ../scss/negma.scss */
+html.admin {
+  background: #f1f2f7;
+}
+/* line 144, ../scss/negma.scss */
+html.admin header {
+  min-height: 60px;
+  background: #fff;
+  display: block;
+  padding: 0 15px 15px;
+  position: fixed;
+  width: 100%;
+  z-index: 1001;
+  top: 0;
+}
+/* line 155, ../scss/negma.scss */
+html.admin header .ico_menu {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 24px;
+  color: #999;
+  margin-top: 20px;
+  cursor: pointer;
+}
+/* line 166, ../scss/negma.scss */
+html.admin header .admin_logo {
+  position: absolute;
+  background: url("../img/logo.jpg") no-repeat scroll 0 32%/cover transparent;
+  height: 60px;
+  left: 45%;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+/* line 178, ../scss/negma.scss */
+html.admin header .logout {
+  display: block;
+  background-color: #a9d96c;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-decoration: none;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+  width: 100%;
+  padding: 10px 0;
+  text-align: center;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+/* line 195, ../scss/negma.scss */
+html.admin header .user_interface {
+  background: none repeat scroll 0 0 #2a3542;
+  display: none;
+  margin-top: 11px;
+  max-width: 500px;
+  padding: 1%;
+  position: absolute;
+  right: -2px;
+  min-width: 500px;
+}
+/* line 208, ../scss/negma.scss */
+html.admin header .user_interface span {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #fff;
+  margin-bottom: 10px;
+  font-size: 14px;
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+/* line 218, ../scss/negma.scss */
+html.admin header .user_interface span b {
+  display: block;
+  text-align: center;
+}
+/* line 227, ../scss/negma.scss */
+html.admin header .user_interface:after {
+  border-bottom: 10px solid #2a3542;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  content: "";
+  display: block;
+  position: absolute;
+  right: 21px;
+  top: -8px;
+  z-index: 1000;
+}
+/* line 245, ../scss/negma.scss */
+html.admin header .user_icon {
+  background: none repeat scroll 0 0 #f5f5f5;
+  border-radius: 40px;
+  color: #999;
+  display: block;
+  font-size: 15px;
+  height: 40px;
+  margin: 0 10px;
+  padding: 10px;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 22%;
+  width: 40px;
+  outline: none;
+}
+/* line 270, ../scss/negma.scss */
+html.admin aside {
+  background: #2a3542;
+  width: 210px;
+  height: 100%;
+  position: fixed;
+  padding-top: 90px;
+  z-index: 1000;
+  top: 0;
+}
+/* line 280, ../scss/negma.scss */
+html.admin aside ul {
+  padding: 0;
+}
+/* line 286, ../scss/negma.scss */
+html.admin aside ul li {
+  margin: 0 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+/* line 291, ../scss/negma.scss */
+html.admin aside ul li > ul {
+  display: none;
+  list-style: none;
+}
+/* line 298, ../scss/negma.scss */
+html.admin aside ul li a {
+  color: #fff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-decoration: none;
+  padding: 15px 0 15px 10px;
+  display: block;
+}
+/* line 306, ../scss/negma.scss */
+html.admin aside ul li a .fa-plus {
+  font-size: 11px;
+  float: right;
+}
+/* line 313, ../scss/negma.scss */
+html.admin aside ul li a i {
+  margin-right: 10px;
+  min-width: 15px;
+}
+/* line 324, ../scss/negma.scss */
+html.admin aside ul li:hover {
+  background: #35404d;
+}
+/* line 328, ../scss/negma.scss */
+html.admin aside ul li:hover a {
+  text-decoration: none;
+  color: #fff;
+}
+/* line 333, ../scss/negma.scss */
+html.admin aside ul li:hover a i {
+  color: #ff6c60;
+}
+/* line 339, ../scss/negma.scss */
+html.admin aside ul li:hover a .fa-plus {
+  color: #fff;
+}
+/* line 358, ../scss/negma.scss */
+html.admin #admincontent {
+  margin-top: 80px;
+  margin-left: 210px;
+  min-height: 1250px;
+}
+/* line 365, ../scss/negma.scss */
+html.admin #admincontent .admin {
+  background: #fff;
+  margin: 2% 1%;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  padding: 0 0 15px;
+}
+/* line 374, ../scss/negma.scss */
+html.admin #admincontent .add_apto {
+  display: block;
+}
+/* line 376, ../scss/negma.scss */
+html.admin #admincontent .apto {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 3%;
+  position: relative;
+  border: 1px solid #f0f0f0;
+  padding: 2%;
+}
+/* line 392, ../scss/negma.scss */
+html.admin #admincontent .change_slide_img, html.admin #admincontent .change_logo, html.admin #admincontent .add_gallery, html.admin #admincontent .add_apto, html.admin #admincontent .change_img_google, html.admin #admincontent .change_pdf {
+  background-color: #57c8f2;
+  display: block;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  color: #fff;
+  padding: 7px 10px;
+  max-width: 200px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin: 12px 0;
+  cursor: pointer;
+  text-decoration: none;
+}
+/* line 405, ../scss/negma.scss */
+html.admin #admincontent .change_slide_img i, html.admin #admincontent .change_logo i, html.admin #admincontent .add_gallery i, html.admin #admincontent .add_apto i, html.admin #admincontent .change_img_google i, html.admin #admincontent .change_pdf i {
+  margin-right: 15px;
+}
+/* line 416, ../scss/negma.scss */
+html.admin #admincontent .remove_apto {
+  color: #fff;
+  padding: 5px;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+  background-color: #000;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  right: -10px;
+  top: -11px;
+  text-align: center;
+  cursor: pointer;
+}
+/* line 433, ../scss/negma.scss */
+html.admin #admincontent #sortable {
+  list-style: none;
+  padding: 0;
+}
+/* line 438, ../scss/negma.scss */
+html.admin #admincontent #sortable li {
+  margin-right: 1%;
+  width: 47%;
+  display: inline-block;
+  position: relative;
+  padding: 2%;
+  border: 1px solid #f0f0f0;
+}
+/* line 447, ../scss/negma.scss */
+html.admin #admincontent #sortable li .remove_img_gallery {
+  color: #fff;
+  padding: 5px;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+  background-color: #000;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  right: -10px;
+  top: -11px;
+  text-align: center;
+  cursor: pointer;
+}
+/* line 468, ../scss/negma.scss */
+html.admin #admincontent form {
+  padding: 15px 0;
+}
+/* line 472, ../scss/negma.scss */
+html.admin #admincontent form input[type="file"] {
+  margin: 10px;
+}
+/* line 478, ../scss/negma.scss */
+html.admin #admincontent form input[type="submit"] {
+  background-color: #ff6c60;
+  color: #fff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 14px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  padding: 7px 15px;
+  border: none;
+  margin: 0 15px;
+}
+/* line 491, ../scss/negma.scss */
+html.admin #admincontent form .pdf {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+/* line 498, ../scss/negma.scss */
+html.admin #admincontent form .fa-file-pdf-o {
+  font-size: 80px;
+  color: #f4f4f4;
+  text-shadow: #666 1px 1px 0;
+  margin-right: 15px;
+}
+/* line 508, ../scss/negma.scss */
+html.admin #admincontent form .form-group {
+  padding: 0 15px;
+}
+/* line 513, ../scss/negma.scss */
+html.admin #admincontent form .form-group label {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #444;
+  display: block;
+}
+/* line 521, ../scss/negma.scss */
+html.admin #admincontent form .form-group img {
+  width: 100% !important;
+  max-width: 100%;
+  max-height: 200px;
+}
+/* line 532, ../scss/negma.scss */
+html.admin #admincontent form .form-group output span {
+  border: 1px solid #f0f0f0;
+  display: inline-block;
+  margin-right: 1%;
+  margin-top: 10px;
+  padding: 2%;
+  position: relative;
+  width: 47% !important;
+}
+/* line 550, ../scss/negma.scss */
+html.admin #admincontent form .form-group select {
+  -moz-appearance: tabpanels;
+  -webkit-appearance: tabpanels;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  display: block;
+  height: 37px;
+}
+/* line 559, ../scss/negma.scss */
+html.admin #admincontent form .form-group select option {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+/* line 567, ../scss/negma.scss */
+html.admin #admincontent form .form-group input[type="text"], html.admin #admincontent form .form-group input[type="email"], html.admin #admincontent form .form-group select, html.admin #admincontent form .form-group input[type="password"] {
+  display: block;
+  padding: 7px 15px;
+  color: #666;
+  font-family: 'Open Sans Condensed', sans-serif;
+  width: 100%;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  border: 1px solid #c3c3c3;
+}
+/* line 582, ../scss/negma.scss */
+html.admin #admincontent form .inline {
+  float: left;
+  width: 48%;
+  margin-right: 1%;
+  min-height: 60px;
+}
+/* line 590, ../scss/negma.scss */
+html.admin #admincontent form .inline:after, html.admin #admincontent form .inline:before {
+  clear: both;
+}
+/* line 601, ../scss/negma.scss */
+html.admin #admincontent .full {
+  clear: both;
+}
+/* line 609, ../scss/negma.scss */
+html.admin #admincontent .table {
+  width: 90%;
+  margin: 15px 0;
+}
+/* line 616, ../scss/negma.scss */
+html.admin #admincontent .table thead th {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+/* line 629, ../scss/negma.scss */
+html.admin #admincontent .table tbody td {
+  font-family: 'Open Sans', sans-serif;
+}
+/* line 634, ../scss/negma.scss */
+html.admin #admincontent .table tbody td .edit {
+  display: block;
+  background-color: #41cac0;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  color: #fff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-decoration: none;
+  padding: 5px 7px;
+  text-align: center;
+}
+/* line 648, ../scss/negma.scss */
+html.admin #admincontent .table tbody td .delete {
+  display: block;
+  background-color: #ff6c60;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  color: #fff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-decoration: none;
+  padding: 5px 7px;
+  text-align: center;
+}
+/* line 669, ../scss/negma.scss */
+html.admin #admincontent .add_button {
+  float: right;
+  display: block;
+  padding: 10px 12px;
+  color: #fff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: #58c9f3;
+  text-decoration: none;
+  -moz-transition-property: all;
+  -o-transition-property: all;
+  -webkit-transition-property: all;
+  transition-property: all;
+  -moz-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+  -moz-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+/* line 682, ../scss/negma.scss */
+html.admin #admincontent .add_button i {
+  margin-right: 15px;
+}
+/* line 689, ../scss/negma.scss */
+html.admin #admincontent .add_button:hover {
+  padding-top: 20px;
+}
+/* line 699, ../scss/negma.scss */
+html.admin #admincontent .title {
+  margin: 0;
+  background: #00a8b3;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  padding: 15px 20px;
+  -moz-border-radius: 5px 5px 0 0;
+  -webkit-border-radius: 5px;
+  border-radius: 5px 5px 0 0;
+}
+/* line 711, ../scss/negma.scss */
+html.admin #admincontent .title i {
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  border-radius: 25px;
+  padding: 10px;
+  background: #0099A4;
+  margin-right: 15px;
+}
+/* line 725, ../scss/negma.scss */
+html.admin footer {
+  background: #5b6e84;
+  width: 100%;
+  bottom: 0;
+  padding: 10px 0;
+  min-height: 45px;
+  z-index: 999;
+  position: fixed;
+}
+/* line 733, ../scss/negma.scss */
+html.admin footer div {
+  color: #fff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+}
+
+/* Logo */
+/* line 746, ../scss/negma.scss */
+.logo img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  position: relative;
+  width: inherit;
+  padding-left: 20px;
+  height: 40vh;
+}
+/* line 755, ../scss/negma.scss */
+.logo .ingresar {
+  font-family: 'Lobster', cursive;
+  font-size: 25px;
+  color: #475130;
+  cursor: pointer;
+  text-decoration: none;
+  outline: none;
+}
+/* line 762, ../scss/negma.scss */
+.logo .ingresar small {
+  color: #7D8E54;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+/* line 771, ../scss/negma.scss */
+.usuarios .full {
+  background: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 10000000000;
+  top: 0;
+  left: 0;
+}
+/* line 780, ../scss/negma.scss */
+.usuarios .full .container {
+  background: #fff;
+  max-width: 950px;
+  margin-top: 30px;
+  min-height: 400px;
+  padding: 30px;
+}
+/* line 788, ../scss/negma.scss */
+.usuarios .full .container .nombre, .usuarios .full .container .tipo {
+  margin-left: 292px;
+}
+/* line 794, ../scss/negma.scss */
+.usuarios .full .container img {
+  width: 250px;
+  height: 250px;
+  margin: -25px 40px 0 0;
+  float: left;
+}
+/* line 802, ../scss/negma.scss */
+.usuarios .full .container a {
+  display: none;
+}
+/* line 806, ../scss/negma.scss */
+.usuarios .full .container i {
+  display: block;
+  text-align: center;
+  font-size: 120px;
+  color: #444;
+  padding: 85px;
+  float: left;
+  margin-right: 30px;
+  background: #f9f9f9;
+  margin-top: -30px;
+}
+/* line 819, ../scss/negma.scss */
+.usuarios .full .container span, .usuarios .full .container small {
+  display: block;
+  text-align: left;
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin: 10px 0;
+  color: #444;
+}
+/* line 827, ../scss/negma.scss */
+.usuarios .full .container .hidden_content {
+  display: block !important;
+}
+
+/* line 835, ../scss/negma.scss */
+.excel {
+  background: #ff4c4c;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #fff;
+  position: absolute;
+  right: -86px;
+  text-decoration: none;
+  display: block;
+  padding: 15px;
+  text-align: center;
+  -moz-transition-property: all;
+  -o-transition-property: all;
+  -webkit-transition-property: all;
+  transition-property: all;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -moz-transition-timing-function: ease-in;
+  -o-transition-timing-function: ease-in;
+  -webkit-transition-timing-function: ease-in;
+  transition-timing-function: ease-in;
+}
+/* line 851, ../scss/negma.scss */
+.excel:hover {
+  text-decoration: none;
+  color: #fff;
+  right: 0;
+}
+/* line 860, ../scss/negma.scss */
+.excel i {
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+/* line 873, ../scss/negma.scss */
+.panel_, .logout_ {
+  background: none repeat scroll 0 0 #a39970;
+  color: #fff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  text-decoration: none;
+  max-width: 250px;
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+}
+/* line 884, ../scss/negma.scss */
+.panel_:hover, .logout_:hover {
+  color: #fff;
+  text-decoration: none;
+}
+/* line 892, ../scss/negma.scss */
+.panel_ i, .logout_ i {
+  margin-right: 10px;
+}
+
+/* line 900, ../scss/negma.scss */
+.logout_ {
+  background: none repeat scroll 0 0 #758756;
+}
+
+@-moz-keyframes slide-left {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+@-webkit-keyframes slide-left {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+@keyframes slide-left {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+/* line 923, ../scss/negma.scss */
+.ganadores_modalidades {
+  background: #f4f4f4;
+}
+/* line 929, ../scss/negma.scss */
+.ganadores_modalidades .modalidad {
+  display: inline-block;
+  background: #fff;
+  vertical-align: top;
+  width: 31%;
+  position: relative;
+  max-height: 30vh;
+  min-height: 30vh;
+  margin: 15px 1%;
+  cursor: pointer;
+}
+/* line 941, ../scss/negma.scss */
+.ganadores_modalidades .modalidad img {
+  max-width: 900%;
+  max-height: 30vh;
+  display: block;
+  margin: 0 auto;
+}
+/* line 948, ../scss/negma.scss */
+.ganadores_modalidades .modalidad a {
+  display: none;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #fff;
+  position: absolute;
+  top: 0;
+  height: 100%;
+  padding-top: 40%;
+  text-decoration: none;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+  text-transform: uppercase;
+  font-size: 18px;
+}
+/* line 966, ../scss/negma.scss */
+.ganadores_modalidades .modalidad:hover a {
+  display: block;
+  -moz-animation: slide-left 0.3s ease-in 0s;
+  -webkit-animation: slide-left 0.3s ease-in 0s;
+  animation: slide-left 0.3s ease-in 0s;
+  width: 100%;
+}
+
+/* line 979, ../scss/negma.scss */
+#fil_comp button {
+  background: #2a3542;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #fff;
+  padding: 10px 30px;
+  margin-top: 21px;
+  border: none;
+  box-shadow: none;
+}

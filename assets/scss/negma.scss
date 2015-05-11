@@ -1,0 +1,760 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+
+
+@import "compass/css3";
+@import "compass/css3/opacity";
+@import "compass/css3/text-shadow";
+
+// Mixins
+
+@mixin  align ( $align )  { 
+ 
+	text-align: $align;
+}
+
+@mixin  size ( $size )  { 
+ 
+	font-size: $size;
+}
+
+@mixin google(){
+
+	font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+@mixin normal (){
+
+	font-family:Trebuchet MS;
+
+}
+
+@mixin pt(){
+	font-family: 'Lobster', cursive;
+}
+
+
+// Login
+
+body.login_form{
+
+	.maincontent{
+		background:#A39970;
+		padding:30px 0;
+		margin-top:30px;
+		display:none;
+	}
+
+	div {
+		
+		position:relative;	
+
+		i {
+
+		position:absolute;
+		left:11%;
+		display:block;
+		padding:11px 12px;
+		color:#fff;
+
+
+		}
+
+	}	
+
+	form {
+		margin:0 34%;
+		
+
+	}
+
+	h3 {
+
+		padding:20px 15px;
+		@include align(center);
+		@include border-radius(10px 10px 0 0);
+		font-weight:normal;
+		color:#fff;
+		text-transform:uppercase;
+		@include google;
+		background:#7D8D37;
+		@include box-shadow(0 4px #A8BF80);	
+
+
+	}
+
+	input[type="email"], input[type="password"] {
+		
+		display:block;
+		padding:8px 12px 8px 42px;
+		width:80%;
+		margin:0 auto 15px;
+		@include border-radius(5px);
+		border:1px solid #eaeaea;
+		color:#666;
+		@include google;
+		background-color:#9D946F;
+		color:#fff;	
+
+	}
+
+	input[type="submit"] {
+
+		display:block;
+		padding:10px 12px;
+		background:#758756;
+		color:#fff;
+		@include google;
+		@include align(center);
+		@include border-radius(5px);
+		border:none;
+		margin:10px auto 20px;
+		@include size(12px);
+		text-transform:uppercase;
+		min-width: 210px;
+		
+
+
+	}
+
+	a {
+
+		text-decoration:none;
+		cursor:pointer;
+		color:#41cac0;
+		@include google;
+		@include align(center);
+		display:block;
+		@include size(14px);	
+
+	}
+}
+
+//  Admin
+
+html.admin {
+
+	background:#f1f2f7;
+
+	// Header
+
+	header {
+
+		min-height:60px;
+		background:#fff;
+		display:block;
+		padding:0 15px 15px;
+		position:fixed;
+		width:100%;
+		z-index:1001;
+		top:0;
+
+		.ico_menu{
+
+			display:inline-block;
+			vertical-align:top;
+			@include size(24px);
+			color:#999;
+			margin-top:20px;
+			cursor: pointer;
+
+		}
+
+		.admin_logo {
+			
+			position:absolute;
+			left:40%;
+
+		}
+
+		.logout {
+
+			display:block;
+			background-color:#a9d96c;
+			@include google;
+			text-decoration: none;
+			color:#fff;
+			@include size(15px);
+			cursor: pointer;
+			width:100%;
+			padding:10px 0;
+			@include align(center);
+			@include border-radius(5px);
+			margin-top:10px;
+
+		}
+
+		.user_interface {
+
+			background: none repeat scroll 0 0 #2a3542;
+		    display: none;
+		    margin-top: 11px;
+		    max-width: 500px;
+		    padding: 1%;
+		    position: absolute;
+		    right: -2px;
+		    min-width:500px;
+
+
+
+		    span {
+
+				@include google;
+				color:#fff;
+				margin-bottom:10px;
+				@include size(14px);
+				@include align(center);
+				display:block;
+				width:100%;
+
+				b {
+					
+					display:block;
+					@include align(center);	
+
+				}	
+
+		    }
+
+			&:after {
+	
+				border-bottom: 10px solid #2a3542;
+			    border-left: 10px solid transparent;
+			    border-right: 10px solid transparent;
+			    content: "";
+			    display: block;
+			    position: absolute;
+			    right: 21px;
+			    top: -8px;
+			    z-index: 1000;
+
+			}
+
+
+		}
+
+
+		.user_icon {
+
+			background: none repeat scroll 0 0 #f5f5f5;
+		    border-radius: 40px;
+		    color: #999;
+		    display: block;
+		    font-size: 15px;
+		    height: 40px;
+		    margin: 0 10px;
+		    padding: 10px;
+		    position: absolute;
+		    right: 0;
+		    text-align: center;
+		    top: 22%;
+		    width: 40px;
+		    outline: none;
+
+		}
+
+
+	}
+
+	// SideBar 
+
+
+	aside {
+
+		background:#2a3542;
+		width:210px;
+		height:100%;
+		position:fixed;
+		padding-top:90px;
+		z-index: 1000;
+		top:0;
+
+		ul{
+
+
+			padding:0;
+
+
+			li {
+
+				margin:0 15px;
+				@include border-radius(5px);	
+				
+				> ul {
+
+					display:none;
+					list-style:none;
+
+				}	
+
+				a {
+
+					color:#fff;
+					@include google;
+					text-decoration:none;
+					padding:15px 0 15px 10px;
+					display:block;
+
+					.fa-plus{
+
+						@include size(11px);
+						float:right;
+
+					}
+
+					i {
+
+						margin-right:10px;
+						min-width:15px;
+
+					}
+
+
+				}
+
+
+				&:hover {
+					
+					background:#35404d;	
+
+					a {
+						
+						text-decoration:none;
+						color:#fff;
+
+						i{
+
+							color:#ff6c60;
+
+						}
+
+						.fa-plus{
+
+							color:#fff;
+
+						}
+
+					}
+
+				}
+
+			}
+
+		}
+
+	}
+
+
+	//  Admin Content
+
+	#admincontent{
+
+		margin-top:80px;
+		margin-left:210px;
+		
+
+		.admin {
+
+			background:#fff;
+			margin:2% 1%;
+			@include border-radius(5px);
+			padding: 0 0 15px;
+
+		}
+		
+		.add_apto {display:block;}
+
+		.apto {
+
+			width:45%;
+			display:inline-block;
+			vertical-align:top;
+			margin-right:3%;
+			position:relative;
+			border:1px solid #f0f0f0;
+			padding:2%;
+
+
+		}
+
+		
+
+
+		.change_slide_img, .change_logo, .add_gallery, .add_apto, .change_img_google, .change_pdf {
+
+			background-color:#57c8f2;
+			display:block;
+			@include border-radius(10px);
+			color:#fff;
+			padding:7px 10px;
+			max-width:200px;
+			@include google;
+			margin:12px 0;
+			cursor: pointer;
+			text-decoration: none;
+
+			i {
+
+				margin-right:15px;
+
+			}
+
+		}
+
+
+		
+
+		.remove_apto {
+
+			color:#fff;
+			padding:5px;
+			@include border-radius(30px);
+			background-color:#000;
+			width: 30px;
+			height: 30px;
+			position:absolute;
+			right:-10px;
+			top:-11px;
+			@include align(center);
+			cursor:pointer;
+
+
+		}
+
+		#sortable {
+
+			list-style:none;
+			padding:0;
+
+			li {
+			
+				margin-right:1%;
+				width:47%;
+				display: inline-block;
+				position:relative;
+				padding:2%;
+				border:1px solid #f0f0f0;
+
+				.remove_img_gallery {
+
+					color:#fff;
+					padding:5px;
+					@include border-radius(30px);
+					background-color:#000;
+					width: 30px;
+					height: 30px;
+					position:absolute;
+					right:-10px;
+					top:-11px;
+					@include align(center);
+					cursor:pointer;	
+
+				}
+
+			}
+
+
+		}
+
+		form {
+
+			padding:15px 0;
+
+			input[type="file"] {
+				
+				margin:10px;
+
+			}
+			
+			input[type="submit"] {
+
+				background-color:#ff6c60;
+				color:#fff;
+				@include google;
+				@include size(14px);
+				@include border-radius(5px);
+				padding:7px 15px;
+				border:none;
+				margin:0 15px;
+
+			}
+
+			.pdf {
+
+				@include google;
+
+
+			}
+
+			.fa-file-pdf-o {
+
+				@include size(80px);
+				color:#f4f4f4;
+				@include text-shadow(#666 1px 1px 0);
+				margin-right:15px;
+
+			}
+
+
+			.form-group {
+				
+				padding:0 15px;
+
+
+				label {
+
+					@include google;
+					color:#444;
+					display:block;
+					
+				}
+
+				img {
+
+					width:100% !important;
+					max-width:100%;
+					max-height:200px;
+
+				}
+				
+
+					output {
+						
+						span {
+
+
+							border: 1px solid #f0f0f0;
+						    display: inline-block;
+						    margin-right: 1%;
+						    margin-top: 10px;
+						    padding: 2%;
+						    position: relative;
+						    width: 47% !important;
+						}
+
+
+					
+
+					}
+				
+
+				select {
+
+					@include appearance(tabpanels);
+					@include box-shadow(none);
+				
+					display:block;	
+					height:37px;
+
+
+					option{
+
+						@include box-shadow(none);
+
+					}
+
+				}
+
+				input[type="text"], input[type="email"], select, input[type="password"] {
+
+					display:block;
+					padding:7px 15px;
+					color:#666;
+					@include google;
+					width:100%;
+					@include border-radius(5px);
+					border:1px solid #c3c3c3;	
+
+				}
+
+			}
+			
+
+			.inline {
+
+				float:left;
+				width:48%;
+				margin-right:1%;
+				min-height:60px;
+
+
+				&:after, &:before {
+
+					clear:both;
+
+				}
+
+			}
+		
+
+		}
+
+		.full {
+	
+			clear:both;
+			
+			
+
+		} 
+
+		.table {
+
+			width:90%;
+			margin:15px 0;
+
+			thead {
+
+				th {
+
+				@include google;	
+				
+
+				}
+
+
+			}
+
+
+			tbody{
+
+				td {
+
+
+					@include normal;
+					
+					.edit {
+					
+						display:block;
+						background-color:#41cac0;
+						@include border-radius(5px);
+						color:#fff;
+						@include google;
+						text-decoration:none;
+						padding:5px 7px;
+						@include align(center);
+
+					}
+
+
+					.delete {
+					
+						display:block;
+						background-color:#ff6c60;
+						@include border-radius(5px);
+						color:#fff;
+						@include google;
+						text-decoration:none;
+						padding:5px 7px;
+						@include align(center);
+
+					}
+
+
+				}
+
+			}
+
+
+		}
+
+		.add_button {
+	
+			float:right;
+			display:block;
+			padding:10px 12px;
+			color:#fff;
+			@include google;
+			background-color:#58c9f3;
+			text-decoration:none;
+			@include transition-property(all);
+		    @include transition-duration(0.5s);
+		    @include transition-timing-function(ease);
+
+		    i {
+
+				margin-right:15px;
+
+		    }
+
+
+		    &:hover {
+
+				padding-top:20px;
+				
+
+		    }
+
+
+		}
+
+		.title {
+	
+			margin:0;
+			background:#00a8b3;
+			@include google;
+			color:#fff;
+			@include size(20px);
+			text-transform: uppercase;
+			padding:15px 20px;
+			@include border-radius(5px 5px 0 0);
+			
+
+			i{
+
+				@include border-radius(25px);
+				padding:10px;
+				background:#0099A4;
+				margin-right:15px;
+
+			}
+
+		}	
+
+	}
+
+
+	footer {
+		background:#5b6e84;
+		width:100%;
+		bottom:0;
+		padding:10px 0;
+		min-height:45px;
+		z-index:999;
+		position:fixed;
+		div {
+			color:#fff;
+			@include google;
+			@include align(center);
+		}
+	}
+
+
+}
+
+/* Logo */
+
+.logo{
+	img{
+		display:block;
+		max-width:100%;
+		margin:0 auto;
+		position:relative;
+		width:300px;
+	}
+	.ingresar{
+		@include pt;
+		font-size:25px;
+		color:#475130;
+		cursor:pointer;
+		text-decoration:none;
+		outline:none;
+		small {
+			color:#7D8E54;
+			@include google;
+		}
+	}
+}

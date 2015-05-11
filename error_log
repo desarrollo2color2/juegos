@@ -1,0 +1,836 @@
+[14-Feb-2015 11:26:17 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/negmapro/public_html/tuzo/vendor/db.php:27) in /home/negmapro/public_html/tuzo/vendor/app.php on line 45
+[14-Feb-2015 11:26:32 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[14-Feb-2015 11:28:04 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[14-Feb-2015 11:28:32 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[14-Feb-2015 11:28:36 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[14-Feb-2015 11:28:51 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[14-Feb-2015 14:58:38 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[14-Feb-2015 14:58:57 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[14-Feb-2015 15:21:10 America/Bogota] PHP Parse error:  syntax error, unexpected '}' in /home/negmapro/public_html/tuzo/controllers/user.php on line 374
+[14-Feb-2015 20:37:19 America/Bogota] PHP Fatal error:  Call to undefined method model\UserModel::update_delegado() in /home/negmapro/public_html/tuzo/controllers/user.php on line 181
+[14-Feb-2015 21:19:39 America/Bogota] PHP Notice:  Undefined index: id_asistente in /home/negmapro/public_html/tuzo/controllers/user.php on line 148
+[14-Feb-2015 21:19:39 America/Bogota] PHP Notice:  Undefined index: id_entrenador in /home/negmapro/public_html/tuzo/controllers/user.php on line 148
+[14-Feb-2015 21:19:39 America/Bogota] PHP Notice:  Undefined index: id_asistente in /home/negmapro/public_html/tuzo/controllers/user.php on line 150
+[14-Feb-2015 21:19:39 America/Bogota] PHP Notice:  Undefined index: id_entrenador in /home/negmapro/public_html/tuzo/controllers/user.php on line 153
+[14-Feb-2015 21:20:30 America/Bogota] PHP Notice:  Undefined index: id_asistente in /home/negmapro/public_html/tuzo/controllers/user.php on line 151
+[14-Feb-2015 21:20:30 America/Bogota] PHP Notice:  Undefined index: id_entrenador in /home/negmapro/public_html/tuzo/controllers/user.php on line 151
+[14-Feb-2015 21:20:30 America/Bogota] PHP Notice:  Undefined index: id_asistente in /home/negmapro/public_html/tuzo/controllers/user.php on line 153
+[14-Feb-2015 21:20:30 America/Bogota] PHP Notice:  Undefined index: id_entrenador in /home/negmapro/public_html/tuzo/controllers/user.php on line 156
+[14-Feb-2015 21:20:30 America/Bogota] PHP Notice:  Undefined index: id_asistente in /home/negmapro/public_html/tuzo/controllers/user.php on line 151
+[14-Feb-2015 21:20:30 America/Bogota] PHP Notice:  Undefined index: id_entrenador in /home/negmapro/public_html/tuzo/controllers/user.php on line 151
+[14-Feb-2015 21:20:30 America/Bogota] PHP Notice:  Undefined index: id_asistente in /home/negmapro/public_html/tuzo/controllers/user.php on line 153
+[14-Feb-2015 21:20:30 America/Bogota] PHP Notice:  Undefined index: id_entrenador in /home/negmapro/public_html/tuzo/controllers/user.php on line 156
+[14-Feb-2015 21:21:17 America/Bogota] PHP Notice:  Undefined index: id_asistente in /home/negmapro/public_html/tuzo/controllers/user.php on line 151
+[14-Feb-2015 21:21:17 America/Bogota] PHP Notice:  Undefined index: id_entrenador in /home/negmapro/public_html/tuzo/controllers/user.php on line 151
+[14-Feb-2015 21:21:17 America/Bogota] PHP Notice:  Undefined index: id_asistente in /home/negmapro/public_html/tuzo/controllers/user.php on line 153
+[14-Feb-2015 21:21:17 America/Bogota] PHP Notice:  Undefined index: id_entrenador in /home/negmapro/public_html/tuzo/controllers/user.php on line 156
+[14-Feb-2015 22:39:09 America/Bogota] PHP Fatal error:  Call to undefined function __upload_file() in /home/negmapro/public_html/tuzo/controllers/user.php on line 196
+[22-Feb-2015 19:27:20 America/Bogota] PHP Warning:  Missing argument 1 for app\Db::find_by_attr(), called in /home/negmapro/public_html/tuzo/controllers/user.php on line 60 and defined in /home/negmapro/public_html/tuzo/vendor/db.php on line 59
+[22-Feb-2015 19:27:20 America/Bogota] PHP Notice:  Undefined variable: array in /home/negmapro/public_html/tuzo/vendor/db.php on line 62
+[22-Feb-2015 19:27:20 America/Bogota] PHP Notice:  Undefined variable: array in /home/negmapro/public_html/tuzo/vendor/db.php on line 66
+[22-Feb-2015 19:27:20 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/vendor/db.php on line 66
+[22-Feb-2015 19:27:20 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:30:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:31:08 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:31:08 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:31:08 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:31:08 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:31:08 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:31:08 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:31:08 America/Bogota] PHP Notice:  Undefined index: nombre in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 13
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 21
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 22
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 23
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 24
+[22-Feb-2015 20:43:56 America/Bogota] PHP Notice:  Undefined variable: escuela in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 25
+[01-Mar-2015 12:11:19 America/Bogota] PHP Parse error:  syntax error, unexpected T_STRING in /home/negmapro/public_html/tuzo/controllers/user.php on line 63
+[01-Mar-2015 12:11:38 America/Bogota] PHP Parse error:  syntax error, unexpected T_STRING in /home/negmapro/public_html/tuzo/controllers/user.php on line 63
+[01-Mar-2015 12:38:43 America/Bogota] PHP Notice:  Undefined index: modalidad in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 64
+[01-Mar-2015 12:38:43 America/Bogota] PHP Notice:  Undefined index: modalidad in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 64
+[01-Mar-2015 12:38:43 America/Bogota] PHP Notice:  Undefined index: modalidad in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 64
+[01-Mar-2015 12:38:43 America/Bogota] PHP Notice:  Undefined index: modalidad in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 64
+[01-Mar-2015 12:38:43 America/Bogota] PHP Notice:  Undefined index: modalidad in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 64
+[01-Mar-2015 12:38:43 America/Bogota] PHP Notice:  Undefined index: modalidad in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 64
+[01-Mar-2015 12:38:43 America/Bogota] PHP Notice:  Undefined index: modalidad in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 64
+[01-Mar-2015 12:39:17 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[01-Mar-2015 12:39:19 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[01-Mar-2015 14:31:25 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[09-Mar-2015 21:19:46 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[09-Mar-2015 21:20:40 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[09-Mar-2015 21:57:55 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[09-Mar-2015 21:58:13 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[09-Mar-2015 21:58:14 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[09-Mar-2015 21:58:16 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[09-Mar-2015 21:58:31 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[09-Mar-2015 21:58:39 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[11-Mar-2015 01:37:47 America/Bogota] PHP Notice:  Undefined index: escuela in /home/negmapro/public_html/tuzo/models/user.php on line 73
+[11-Mar-2015 01:37:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 64
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: tipo_doc in /home/negmapro/public_html/tuzo/controllers/user.php on line 106
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: num_doc in /home/negmapro/public_html/tuzo/controllers/user.php on line 109
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: edad in /home/negmapro/public_html/tuzo/controllers/user.php on line 111
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: cod_militar in /home/negmapro/public_html/tuzo/controllers/user.php on line 112
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: rh in /home/negmapro/public_html/tuzo/controllers/user.php on line 113
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: telefono in /home/negmapro/public_html/tuzo/controllers/user.php on line 114
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: fecha_nacimiento in /home/negmapro/public_html/tuzo/controllers/user.php on line 116
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: fecha_nacimiento in /home/negmapro/public_html/tuzo/controllers/user.php on line 117
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: lugar_nacimiento in /home/negmapro/public_html/tuzo/controllers/user.php on line 120
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: alergico_a in /home/negmapro/public_html/tuzo/controllers/user.php on line 124
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: tipo_doc in /home/negmapro/public_html/tuzo/controllers/user.php on line 106
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: num_doc in /home/negmapro/public_html/tuzo/controllers/user.php on line 109
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: edad in /home/negmapro/public_html/tuzo/controllers/user.php on line 111
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: cod_militar in /home/negmapro/public_html/tuzo/controllers/user.php on line 112
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: rh in /home/negmapro/public_html/tuzo/controllers/user.php on line 113
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: telefono in /home/negmapro/public_html/tuzo/controllers/user.php on line 114
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: fecha_nacimiento in /home/negmapro/public_html/tuzo/controllers/user.php on line 116
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: fecha_nacimiento in /home/negmapro/public_html/tuzo/controllers/user.php on line 117
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: lugar_nacimiento in /home/negmapro/public_html/tuzo/controllers/user.php on line 120
+[11-Mar-2015 02:21:53 America/Bogota] PHP Notice:  Undefined index: alergico_a in /home/negmapro/public_html/tuzo/controllers/user.php on line 124
+[11-Mar-2015 02:25:34 America/Bogota] PHP Fatal error:  Class 'model\UserModel' not found in /home/negmapro/public_html/tuzo/controllers/user.php on line 158
+[14-Mar-2015 12:48:20 America/Bogota] PHP Warning:  require_once(/home/negmapro/public_html/tuzo/excel/Classes/PHPExcel.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/negmapro/public_html/tuzo/controllers/user.php on line 158
+[14-Mar-2015 12:48:20 America/Bogota] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/negmapro/public_html/tuzo/excel/Classes/PHPExcel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/negmapro/public_html/tuzo/controllers/user.php on line 158
+[14-Mar-2015 19:38:32 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:32 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:40 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:40 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:41 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:41 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:42 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:42 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:42 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:42 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:42 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:42 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:44 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:44 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:45 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:45 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:46 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:47 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:48 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:38:49 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:03 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:03 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:03 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:03 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:03 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:03 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:03 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:03 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:03 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:03 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:04 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:05 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:39:06 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:34 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:34 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:36 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:36 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:37 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:37 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:37 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:37 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:38 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:38 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:38 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:38 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:38 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:38 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:38 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:38 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:38 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:38 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:38 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:38 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 19:55:39 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 20:03:45 America/Bogota] PHP Notice:  Undefined variable: objPHPExcel in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[14-Mar-2015 20:03:45 America/Bogota] PHP Fatal error:  Call to a member function getProperties() on a non-object in /home/negmapro/public_html/tuzo/controllers/user.php on line 160
+[15-Mar-2015 10:46:38 America/Bogota] PHP Notice:  Undefined offset: 0 in /home/negmapro/public_html/tuzo/controllers/user.php on line 182
+[15-Mar-2015 10:46:38 America/Bogota] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 182
+[15-Mar-2015 10:47:01 America/Bogota] PHP Notice:  Undefined offset: 0 in /home/negmapro/public_html/tuzo/controllers/user.php on line 182
+[15-Mar-2015 10:47:01 America/Bogota] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 182
+[15-Mar-2015 10:47:01 America/Bogota] PHP Notice:  Undefined offset: 0 in /home/negmapro/public_html/tuzo/controllers/user.php on line 184
+[15-Mar-2015 11:05:06 America/Bogota] PHP Fatal error:  Class 'User' not found in /home/negmapro/public_html/tuzo/vendor/app.php on line 359
+[15-Mar-2015 22:21:55 America/Bogota] PHP Parse error:  syntax error, unexpected ';' in /home/negmapro/public_html/tuzo/widgets/logo.php on line 14
+[02-Apr-2015 13:46:48 America/Bogota] PHP Fatal error:  Access to undeclared static property: User::$modalidades in /home/negmapro/public_html/tuzo/controllers/user.php on line 611
+[02-Apr-2015 14:56:16 America/Bogota] PHP Notice:  Undefined variable: competencias in /home/negmapro/public_html/tuzo/controllers/user.php on line 652
+[02-Apr-2015 14:56:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 652
+[02-Apr-2015 14:57:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 652
+[02-Apr-2015 14:58:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 653
+[02-Apr-2015 14:58:55 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 654
+[02-Apr-2015 19:51:56 America/Bogota] PHP Notice:  Undefined variable: competencias in /home/negmapro/public_html/tuzo/controllers/user.php on line 652
+[02-Apr-2015 19:52:04 America/Bogota] PHP Notice:  Undefined variable: competencias in /home/negmapro/public_html/tuzo/controllers/user.php on line 652
+[02-Apr-2015 20:32:55 America/Bogota] PHP Notice:  Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' in /home/negmapro/public_html/tuzo/controllers/user.php on line 366
+[02-Apr-2015 20:32:55 America/Bogota] PHP Warning:  json_encode() expects parameter 2 to be long, string given in /home/negmapro/public_html/tuzo/controllers/user.php on line 366
+[02-Apr-2015 20:32:55 America/Bogota] PHP Notice:  Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' in /home/negmapro/public_html/tuzo/controllers/user.php on line 367
+[02-Apr-2015 20:32:55 America/Bogota] PHP Warning:  json_encode() expects parameter 2 to be long, string given in /home/negmapro/public_html/tuzo/controllers/user.php on line 367
+[02-Apr-2015 20:57:01 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 367
+[02-Apr-2015 20:57:06 America/Bogota] PHP Fatal error:  Access to undeclared static property: app\App::$modalidades in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 182
+[02-Apr-2015 20:57:06 America/Bogota] PHP Fatal error:  Access to undeclared static property: app\App::$modalidades in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 182
+[02-Apr-2015 21:07:03 America/Bogota] PHP Fatal error:  Access to undeclared static property: app\App::$modalidades in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 194
+[02-Apr-2015 21:07:13 America/Bogota] PHP Fatal error:  Access to undeclared static property: app\App::$modalidades in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 194
+[02-Apr-2015 21:07:42 America/Bogota] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 211
+[02-Apr-2015 21:07:42 America/Bogota] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 211
+[02-Apr-2015 21:31:08 America/Bogota] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 194
+[02-Apr-2015 22:33:20 America/Bogota] PHP Parse error:  syntax error, unexpected ']' in /home/negmapro/public_html/tuzo/controllers/user.php on line 667
+[02-Apr-2015 22:33:34 America/Bogota] PHP Notice:  Undefined offset: 0 in /home/negmapro/public_html/tuzo/controllers/user.php on line 463
+[02-Apr-2015 22:33:40 America/Bogota] PHP Notice:  Undefined offset: 0 in /home/negmapro/public_html/tuzo/controllers/user.php on line 463
+[02-Apr-2015 22:35:12 America/Bogota] PHP Notice:  Undefined offset: 0 in /home/negmapro/public_html/tuzo/controllers/user.php on line 463
+[02-Apr-2015 23:02:05 America/Bogota] PHP Parse error:  syntax error, unexpected ':' in /home/negmapro/public_html/tuzo/controllers/user.php on line 540
+[02-Apr-2015 23:40:36 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 367
+[03-Apr-2015 01:59:37 America/Bogota] PHP Notice:  Undefined variable: delegado in /home/negmapro/public_html/tuzo/views/admin_winner.tpl on line 57
+[03-Apr-2015 02:17:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 694
+[03-Apr-2015 02:19:27 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 694
+[03-Apr-2015 02:55:46 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 694
+[03-Apr-2015 03:00:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/winner.php on line 164
+[03-Apr-2015 03:02:48 America/Bogota] PHP Notice:  Undefined variable: comp in /home/negmapro/public_html/tuzo/controllers/winner.php on line 166
+[03-Apr-2015 03:02:48 America/Bogota] PHP Notice:  Undefined index:  in /home/negmapro/public_html/tuzo/controllers/winner.php on line 166
+[03-Apr-2015 03:02:48 America/Bogota] PHP Notice:  Undefined variable: comp in /home/negmapro/public_html/tuzo/controllers/winner.php on line 171
+[03-Apr-2015 03:02:48 America/Bogota] PHP Notice:  Undefined index:  in /home/negmapro/public_html/tuzo/controllers/winner.php on line 171
+[03-Apr-2015 03:02:48 America/Bogota] PHP Notice:  Undefined variable: comp in /home/negmapro/public_html/tuzo/controllers/winner.php on line 171
+[03-Apr-2015 03:02:48 America/Bogota] PHP Notice:  Undefined index:  in /home/negmapro/public_html/tuzo/controllers/winner.php on line 171
+[03-Apr-2015 03:04:14 America/Bogota] PHP Notice:  Undefined index: micro_futbol in /home/negmapro/public_html/tuzo/controllers/winner.php on line 166
+[03-Apr-2015 03:04:14 America/Bogota] PHP Notice:  Undefined index: micro_futbol in /home/negmapro/public_html/tuzo/controllers/winner.php on line 171
+[03-Apr-2015 03:04:14 America/Bogota] PHP Notice:  Undefined index: micro_futbol in /home/negmapro/public_html/tuzo/controllers/winner.php on line 171
+[03-Apr-2015 03:05:12 America/Bogota] PHP Notice:  Undefined variable: competencias in /home/negmapro/public_html/tuzo/controllers/winner.php on line 165
+[03-Apr-2015 03:05:12 America/Bogota] PHP Notice:  Undefined index: micro_futbol in /home/negmapro/public_html/tuzo/controllers/winner.php on line 171
+[03-Apr-2015 03:05:12 America/Bogota] PHP Notice:  Undefined index: micro_futbol in /home/negmapro/public_html/tuzo/controllers/winner.php on line 176
+[03-Apr-2015 03:05:12 America/Bogota] PHP Notice:  Undefined index: micro_futbol in /home/negmapro/public_html/tuzo/controllers/winner.php on line 176
+[03-Apr-2015 03:05:52 America/Bogota] PHP Notice:  Undefined index: micro_futbol in /home/negmapro/public_html/tuzo/controllers/winner.php on line 171
+[03-Apr-2015 03:05:52 America/Bogota] PHP Notice:  Undefined index: micro_futbol in /home/negmapro/public_html/tuzo/controllers/winner.php on line 176
+[03-Apr-2015 03:05:52 America/Bogota] PHP Notice:  Undefined index: micro_futbol in /home/negmapro/public_html/tuzo/controllers/winner.php on line 176
+[03-Apr-2015 03:06:26 America/Bogota] PHP Notice:  Undefined variable: competencias in /home/negmapro/public_html/tuzo/controllers/winner.php on line 165
+[03-Apr-2015 03:06:26 America/Bogota] PHP Notice:  Undefined index: baloncesto in /home/negmapro/public_html/tuzo/controllers/winner.php on line 171
+[03-Apr-2015 03:06:26 America/Bogota] PHP Notice:  Undefined index: baloncesto in /home/negmapro/public_html/tuzo/controllers/winner.php on line 176
+[03-Apr-2015 03:06:26 America/Bogota] PHP Notice:  Undefined index: baloncesto in /home/negmapro/public_html/tuzo/controllers/winner.php on line 176
+[03-Apr-2015 03:06:30 America/Bogota] PHP Notice:  Undefined variable: competencias in /home/negmapro/public_html/tuzo/controllers/winner.php on line 165
+[03-Apr-2015 03:08:00 America/Bogota] PHP Notice:  Undefined index: micro_futbol in /home/negmapro/public_html/tuzo/controllers/winner.php on line 165
+[03-Apr-2015 03:08:00 America/Bogota] PHP Notice:  Undefined index: micro_futbol in /home/negmapro/public_html/tuzo/controllers/winner.php on line 171
+[03-Apr-2015 03:08:00 America/Bogota] PHP Notice:  Undefined index: micro_futbol in /home/negmapro/public_html/tuzo/controllers/winner.php on line 176
+[03-Apr-2015 03:08:00 America/Bogota] PHP Notice:  Undefined index: micro_futbol in /home/negmapro/public_html/tuzo/controllers/winner.php on line 176
+[03-Apr-2015 03:08:43 America/Bogota] PHP Notice:  Undefined index: baloncesto in /home/negmapro/public_html/tuzo/controllers/winner.php on line 165
+[03-Apr-2015 03:08:43 America/Bogota] PHP Notice:  Undefined index: baloncesto in /home/negmapro/public_html/tuzo/controllers/winner.php on line 172
+[03-Apr-2015 03:08:43 America/Bogota] PHP Notice:  Undefined index: baloncesto in /home/negmapro/public_html/tuzo/controllers/winner.php on line 177
+[03-Apr-2015 03:08:43 America/Bogota] PHP Notice:  Undefined index: baloncesto in /home/negmapro/public_html/tuzo/controllers/winner.php on line 177
+[03-Apr-2015 03:16:13 America/Bogota] PHP Notice:  Undefined index: nombre_completo in /home/negmapro/public_html/tuzo/views/admin_winners.tpl on line 37
+[03-Apr-2015 03:22:47 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:23:15 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:23:36 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:23:37 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:23:39 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:23:41 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:23:43 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:24:01 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:24:02 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:24:04 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:24:14 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:24:15 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:24:16 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:24:17 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 03:24:45 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 192
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 195
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 198
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 201
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 204
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 207
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 210
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 213
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 216
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 219
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 223
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 226
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 231
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 234
+[03-Apr-2015 10:51:41 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/views/admin_user.tpl on line 238
+[03-Apr-2015 10:51:42 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 674
+[03-Apr-2015 10:54:40 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 367
+[03-Apr-2015 10:55:58 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 367
+[03-Apr-2015 10:56:05 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 679
+[03-Apr-2015 10:56:05 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 679
+[03-Apr-2015 10:56:05 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 679
+[03-Apr-2015 10:56:05 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 679
+[03-Apr-2015 10:56:05 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 679
+[03-Apr-2015 10:56:05 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 679
+[03-Apr-2015 10:56:05 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 679
+[03-Apr-2015 10:56:05 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 679
+[03-Apr-2015 10:56:05 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 679
+[03-Apr-2015 10:59:43 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 680
+[03-Apr-2015 10:59:43 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 680
+[03-Apr-2015 10:59:43 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 680
+[03-Apr-2015 10:59:43 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 680
+[03-Apr-2015 10:59:43 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 680
+[03-Apr-2015 10:59:43 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 680
+[03-Apr-2015 10:59:43 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 680
+[03-Apr-2015 10:59:43 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 680
+[03-Apr-2015 10:59:43 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 680
+[03-Apr-2015 11:01:39 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 367
+[03-Apr-2015 11:26:44 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/negmapro/public_html/tuzo/routes.php on line 31
+[03-Apr-2015 11:27:12 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/negmapro/public_html/tuzo/routes.php on line 31
+[03-Apr-2015 11:27:15 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/negmapro/public_html/tuzo/routes.php on line 31
+[03-Apr-2015 11:54:32 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 11:58:05 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 11:59:58 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 12:00:06 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 12:00:09 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 12:15:50 America/Bogota] PHP Fatal error:  Class 'paren' not found in /home/negmapro/public_html/tuzo/controllers/winner.php on line 231
+[03-Apr-2015 14:51:27 America/Bogota] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/negmapro/public_html/tuzo/controllers/winner.php on line 275
+[03-Apr-2015 14:54:51 America/Bogota] PHP Notice:  Undefined index: nombre_completo in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 59
+[03-Apr-2015 14:54:51 America/Bogota] PHP Notice:  Undefined index: escuela in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 62
+[03-Apr-2015 14:54:51 America/Bogota] PHP Notice:  Undefined index: escuela in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 63
+[03-Apr-2015 14:54:51 America/Bogota] PHP Notice:  Undefined index: escuela in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 64
+[03-Apr-2015 14:54:51 America/Bogota] PHP Notice:  Undefined index: escuela in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 65
+[03-Apr-2015 14:54:51 America/Bogota] PHP Notice:  Undefined index: escuela in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 66
+[03-Apr-2015 14:54:51 America/Bogota] PHP Notice:  Undefined index: medalla in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 69
+[03-Apr-2015 14:54:51 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 71
+[03-Apr-2015 15:21:20 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 54
+[03-Apr-2015 15:21:20 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 82
+[03-Apr-2015 15:45:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/winner.php on line 323
+[03-Apr-2015 16:07:38 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 16:07:52 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[03-Apr-2015 16:09:23 America/Bogota] PHP Notice:  Undefined index: comp in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 14
+[03-Apr-2015 16:09:23 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 64
+[03-Apr-2015 16:09:23 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 92
+[03-Apr-2015 16:09:23 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 92
+[03-Apr-2015 16:12:32 America/Bogota] PHP Notice:  Undefined index: comp in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 14
+[03-Apr-2015 16:12:32 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 64
+[03-Apr-2015 16:12:32 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 92
+[03-Apr-2015 16:12:32 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 92
+[03-Apr-2015 16:22:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 76
+[03-Apr-2015 16:22:04 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 76
+[03-Apr-2015 16:22:37 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 76
+[03-Apr-2015 16:23:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 76
+[03-Apr-2015 17:39:16 America/Bogota] PHP Notice:  Undefined variable: datos in /home/negmapro/public_html/tuzo/controllers/winner.php on line 322
+[03-Apr-2015 17:39:16 America/Bogota] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/negmapro/public_html/tuzo/controllers/winner.php on line 412
+[03-Apr-2015 17:39:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/winner.php on line 414
+[03-Apr-2015 17:39:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/winner.php on line 419
+[03-Apr-2015 17:44:47 America/Bogota] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/negmapro/public_html/tuzo/controllers/winner.php on line 412
+[03-Apr-2015 17:44:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/winner.php on line 414
+[03-Apr-2015 17:44:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/winner.php on line 419
+[03-Apr-2015 17:44:47 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 63
+[03-Apr-2015 17:47:38 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 64
+[03-Apr-2015 17:50:12 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 68
+[03-Apr-2015 17:52:14 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 68
+[03-Apr-2015 17:53:53 America/Bogota] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 141
+[03-Apr-2015 17:54:12 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 69
+[03-Apr-2015 17:56:13 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 69
+[03-Apr-2015 17:58:33 America/Bogota] PHP Parse error:  syntax error, unexpected ':' in /home/negmapro/public_html/tuzo/views/admin_mod.tpl on line 51
+[03-Apr-2015 18:24:22 America/Bogota] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/negmapro/public_html/tuzo/controllers/winner.php on line 217
+[03-Apr-2015 18:24:45 America/Bogota] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/negmapro/public_html/tuzo/controllers/winner.php on line 217
+[03-Apr-2015 19:19:18 America/Bogota] PHP Parse error:  syntax error, unexpected ',' in /home/negmapro/public_html/tuzo/routes.php on line 28
+[03-Apr-2015 19:36:07 America/Bogota] PHP Fatal error:  Class 'Winner' not found in /home/negmapro/public_html/tuzo/vendor/app.php on line 366
+[03-Apr-2015 19:51:12 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 367
+[03-Apr-2015 21:36:29 America/Bogota] PHP Notice:  Undefined variable: competencias in /home/negmapro/public_html/tuzo/controllers/winner.php on line 214
+[03-Apr-2015 21:36:29 America/Bogota] PHP Fatal error:  Function name must be a string in /home/negmapro/public_html/tuzo/controllers/winner.php on line 214
+[03-Apr-2015 21:44:28 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/winner.php on line 216
+[03-Apr-2015 21:45:11 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/winner.php on line 216
+[03-Apr-2015 21:45:25 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/winner.php on line 216
+[03-Apr-2015 21:45:49 America/Bogota] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/negmapro/public_html/tuzo/controllers/winner.php on line 216
+[03-Apr-2015 21:49:02 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/winner.php on line 245
+[03-Apr-2015 21:51:10 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/winner.php on line 245
+[03-Apr-2015 21:51:10 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/winner.php on line 247
+[03-Apr-2015 22:33:05 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 367
+[03-Apr-2015 22:34:05 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 367
+[03-Apr-2015 22:41:04 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 367
+[03-Apr-2015 22:42:27 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 367
+[04-Apr-2015 11:16:55 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 378
+[04-Apr-2015 11:17:46 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 378
+[04-Apr-2015 12:11:31 America/Bogota] PHP Notice:  Undefined variable: more in /home/negmapro/public_html/tuzo/controllers/winner.php on line 437
+[04-Apr-2015 12:11:31 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[04-Apr-2015 12:13:03 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[04-Apr-2015 12:13:26 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[04-Apr-2015 12:13:31 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[04-Apr-2015 12:13:40 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[04-Apr-2015 12:14:09 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[04-Apr-2015 12:15:29 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[04-Apr-2015 12:15:35 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[04-Apr-2015 12:15:51 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[04-Apr-2015 12:16:32 America/Bogota] PHP Notice:  Undefined index: comp in /home/negmapro/public_html/tuzo/views/admin_esc.tpl on line 14
+[04-Apr-2015 12:19:01 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_esc.tpl on line 60
+[04-Apr-2015 12:19:21 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_esc.tpl on line 60
+[04-Apr-2015 12:19:32 America/Bogota] PHP Notice:  Undefined variable: co in /home/negmapro/public_html/tuzo/views/admin_esc.tpl on line 60
+[04-Apr-2015 15:43:33 America/Bogota] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/negmapro/public_html/tuzo/controllers/winner.php on line 551
+[04-Apr-2015 15:43:33 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/winner.php on line 553
+[04-Apr-2015 15:43:33 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/winner.php on line 558
+[06-Apr-2015 23:42:18 America/Bogota] PHP Parse error:  syntax error, unexpected end of file in /home/negmapro/public_html/tuzo/controllers/winner.php on line 578
+[06-Apr-2015 23:42:54 America/Bogota] PHP Parse error:  syntax error, unexpected ''armas lar' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/negmapro/public_html/tuzo/controllers/winner.php on line 116
+[07-Apr-2015 20:33:14 America/Bogota] PHP Parse error:  syntax error, unexpected '$ganador' (T_VARIABLE) in /home/negmapro/public_html/tuzo/controllers/winner.php on line 340
+[07-Apr-2015 20:46:56 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[07-Apr-2015 20:47:31 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[07-Apr-2015 21:48:12 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 523
+[08-Apr-2015 21:21:33 America/Bogota] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/negmapro/public_html/tuzo/vendor/db.php on line 28
+[21-Apr-2015 11:40:48 America/Bogota] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 331
+[21-Apr-2015 11:40:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 333
+[21-Apr-2015 11:40:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 338
+[21-Apr-2015 11:40:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 40
+[21-Apr-2015 11:40:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 82
+[21-Apr-2015 11:40:56 America/Bogota] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 331
+[21-Apr-2015 11:40:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 333
+[21-Apr-2015 11:40:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 338
+[21-Apr-2015 11:40:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 40
+[21-Apr-2015 11:40:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 82
+[21-Apr-2015 11:41:32 America/Bogota] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/negmapro/public_html/tuzo/controllers/user.php on line 331
+[21-Apr-2015 11:41:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 333
+[21-Apr-2015 11:41:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/controllers/user.php on line 338
+[21-Apr-2015 11:41:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 40
+[21-Apr-2015 11:41:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/negmapro/public_html/tuzo/views/dashboard.tpl on line 82
+[21-Apr-2015 11:47:53 America/Bogota] PHP Notice:  Undefined index: competencia in /home/negmapro/public_html/tuzo/controllers/user.php on line 378
+[24-Apr-2015 19:27:09 America/Bogota] PHP Warning:  require(/home/juegosi1/public_html/tuzo/vendor/session.php): failed to open stream: No such file or directory in /home/juegosi1/public_html/vendor/app.php on line 8
+[24-Apr-2015 19:27:09 America/Bogota] PHP Fatal error:  require(): Failed opening required '/home/juegosi1/public_html/tuzo/vendor/session.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/juegosi1/public_html/vendor/app.php on line 8
+[24-Apr-2015 20:04:18 America/Bogota] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'juegosi1_usu'@'localhost' to database 'juegosi1_tuzo' in /home/juegosi1/public_html/vendor/db.php on line 17
+[24-Apr-2015 20:04:18 America/Bogota] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/juegosi1/public_html/vendor/db.php on line 17
+[30-Apr-2015 08:48:57 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 08:49:37 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
+[30-Apr-2015 10:06:51 America/Bogota] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/juegosi1/public_html/controllers/user.php on line 331
+[30-Apr-2015 10:06:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/juegosi1/public_html/controllers/user.php on line 333
+[30-Apr-2015 10:06:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/juegosi1/public_html/controllers/user.php on line 338
+[30-Apr-2015 10:06:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/juegosi1/public_html/views/dashboard.tpl on line 40
+[30-Apr-2015 10:06:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/juegosi1/public_html/views/dashboard.tpl on line 82
+[30-Apr-2015 10:09:02 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 10:33:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/juegosi1/public_html/controllers/user.php on line 926
+[30-Apr-2015 10:33:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/juegosi1/public_html/controllers/user.php on line 926
+[30-Apr-2015 10:35:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/juegosi1/public_html/controllers/user.php on line 926
+[30-Apr-2015 10:35:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/juegosi1/public_html/controllers/user.php on line 926
+[30-Apr-2015 10:36:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/juegosi1/public_html/controllers/user.php on line 928
+[30-Apr-2015 10:36:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/juegosi1/public_html/controllers/user.php on line 928
+[30-Apr-2015 11:07:55 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 11:16:48 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 11:22:23 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 11:25:46 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 11:28:43 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 11:31:26 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 11:34:04 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 11:37:06 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 11:40:28 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 11:44:39 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 11:55:23 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 12:01:58 America/Bogota] PHP Notice:  Undefined index: pass in /home/juegosi1/public_html/controllers/user.php on line 373
+[30-Apr-2015 12:01:58 America/Bogota] PHP Notice:  Undefined variable: delegado in /home/juegosi1/public_html/controllers/user.php on line 377
+[30-Apr-2015 12:01:58 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 12:01:58 America/Bogota] PHP Notice:  Undefined index: foto in /home/juegosi1/public_html/controllers/user.php on line 389
+[30-Apr-2015 12:07:44 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 12:11:19 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 12:14:34 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 12:17:46 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 12:20:42 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
+[30-Apr-2015 12:24:18 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 13:07:59 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 13:10:42 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 13:13:36 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 13:18:23 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 13:26:33 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 13:28:34 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 13:30:58 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 13:33:45 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[30-Apr-2015 13:47:30 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 13:15:19 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 13:27:03 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 13:29:47 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 13:38:57 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
+[01-May-2015 13:42:37 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 13:48:00 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 14:33:02 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 14:35:37 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 14:38:28 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 14:43:28 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 14:47:14 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 14:53:56 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 14:56:46 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 20:53:18 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 20:56:04 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 20:58:25 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 21:00:35 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 21:16:31 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 21:19:42 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 21:26:54 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 21:29:02 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 21:31:33 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 21:33:54 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 21:49:44 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 22:20:40 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 22:22:48 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 22:25:07 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 22:27:20 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 22:29:50 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 22:32:54 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 22:35:10 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 22:39:23 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 22:49:07 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 22:51:56 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 22:55:20 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 22:58:53 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 23:01:23 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[01-May-2015 23:04:34 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 19:17:24 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 19:22:13 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 19:24:41 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 19:28:27 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 19:30:42 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 19:34:02 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 19:36:57 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 19:58:08 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 20:00:54 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 20:02:58 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 20:04:55 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
+[02-May-2015 20:38:00 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
+[02-May-2015 20:38:43 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
+[02-May-2015 20:39:35 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
+[02-May-2015 20:44:39 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 21:18:30 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 21:21:11 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 21:23:59 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 21:26:03 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 21:28:14 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 21:31:11 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 21:34:04 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 21:58:46 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 22:15:53 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 22:18:40 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 22:26:04 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 22:28:24 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 22:30:42 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 22:33:14 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 22:35:28 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 22:38:54 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 22:41:52 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 22:44:18 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[02-May-2015 22:47:08 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[03-May-2015 19:15:02 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[03-May-2015 19:16:58 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
+[03-May-2015 19:26:10 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[03-May-2015 19:30:01 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[03-May-2015 19:32:32 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 08:24:29 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 08:39:17 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 08:43:02 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 08:54:26 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 09:01:03 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 09:17:50 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 09:23:30 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 09:28:43 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 09:31:35 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 09:45:23 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 09:48:07 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 09:50:15 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 09:52:47 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 09:55:34 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 10:00:11 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 10:02:30 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 10:05:09 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 10:07:34 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 10:11:45 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 11:11:14 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 11:13:41 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 11:16:03 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 11:18:17 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 12:28:51 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 12:35:16 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 14:45:40 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 14:47:55 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 14:56:58 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 14:59:17 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 15:00:05 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
+[04-May-2015 15:02:34 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 15:03:48 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
+[04-May-2015 15:13:02 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 15:15:44 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 15:20:37 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 15:24:18 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
+[04-May-2015 15:39:47 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[04-May-2015 16:31:19 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 06:46:40 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 06:48:47 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 06:50:37 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 07:42:04 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 07:45:02 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 07:47:24 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 07:49:41 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 07:51:57 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 07:53:57 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 07:57:12 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 08:15:49 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 08:18:00 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 08:20:00 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 08:22:06 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 08:24:14 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 08:27:11 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 08:30:36 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 08:40:48 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 08:58:31 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 09:00:29 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 09:10:24 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 09:28:41 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 09:30:58 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 09:33:31 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 09:36:22 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 10:06:17 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 10:08:42 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 16:30:22 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 16:35:33 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 16:37:53 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 16:40:06 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 17:25:47 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 378
+[05-May-2015 19:48:03 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
+[05-May-2015 22:24:49 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
+[05-May-2015 22:28:03 America/Bogota] PHP Notice:  Undefined index: competencia in /home/juegosi1/public_html/controllers/user.php on line 523
